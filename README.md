@@ -10,3 +10,5 @@ TASK#3-: Created a Bank Data Financial Analysis Dashboard providing the overview
 *The expense analysis section focuses on different categories of expenses, such as personnel expenses, operating expenses, and provisions for loan losses. Users can analyze expense ratios, compare actual expenses to budgeted expenses, and identify opportunities for cost optimization.
 
 *The profitability analysis section evaluates the bank's profitability metrics, such as net interest margin, return on assets, and return on equity. Users can assess the bank's ability to generate profits and compare its performance with industry benchmarks.
+
+**Note** -: The Power bi report must be connect to the internet in order to view the geographical data visually through map and understand the states/regions with the maximum loan amount.
